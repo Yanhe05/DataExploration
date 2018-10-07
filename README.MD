@@ -1,9 +1,10 @@
 # DataExploration
-##Project Practice
-*Status: On going
-* Data source
-[Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)  
 
+## Project Practice
+* Status: On going
+* Data source:  
+[Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)  
+* Code file: PartyTime_ProjectPractice.ipynb
 ## Project1: Used Cars Data
 * Status: On Hold
 * Data source:  
