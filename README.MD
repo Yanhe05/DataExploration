@@ -2,7 +2,7 @@
 
 ## Project Practice
 * Status: On going
-* Data source:[Comprehensive data exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python) 
+* Data source:[House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 
 * Code file:[PartyTime_ProjectPractice.ipynb](https://github.com/Yanhe05/DataExploration/blob/master/PartyTime_ProjectPractice.ipynb)
 * File/Data Information  
 
